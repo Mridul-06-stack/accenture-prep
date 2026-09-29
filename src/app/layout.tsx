@@ -24,7 +24,7 @@ export default function RootLayout({
               {children}
             </div>
             <footer className="py-8 text-center text-sm font-medium text-gray-500/80 dark:text-gray-400/80 border-t border-subtle bg-surface">
-              Created by Mridul Ahluwalia
+              Mridul Ahluwalia
             </footer>
           </div>
         </ThemeProvider>
