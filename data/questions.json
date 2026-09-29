@@ -1,0 +1,4367 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/two-sum/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=two+sum"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Search X in sorted array",
+    "difficulty": "Easy",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/search-x-in-sorted-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=search+x+in+sorted+array"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Reverse a LL",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/reverse-a-ll/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=reverse+a+ll"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Level Order Traversal",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/level-order-traversal/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=level+order+traversal"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Number of islands",
+    "difficulty": "Medium",
+    "topic": [
+      "Graph"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/number-of-islands/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=number+of+islands"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Climbing stairs",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/climbing-stairs/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=climbing+stairs"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Trapping Rainwater",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/trapping-rainwater/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=trapping+rainwater"
+    }
+  },
+  {
+    "id": 9,
+    "title": "K-th Largest element in an array",
+    "difficulty": "Hard",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/k-th-largest-element-in-an-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=k+th+largest+element+in+an+array"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Kadane's Algorithm",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/kadane-s-algorithm/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=kadane+s+algorithm"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=longest+substring+without+repeating+characters"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Maximum Depth in BT",
+    "difficulty": "Medium",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-depth-in-bt/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+depth+in+bt"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Rotten Oranges",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/rotten-oranges/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=rotten+oranges"
+    }
+  },
+  {
+    "id": 21,
+    "title": "3 Sum",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/3-sum/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=3+sum"
+    }
+  },
+  {
+    "id": 22,
+    "title": "Detect a loop in LL",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/detect-a-loop-in-ll/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=detect+a+loop+in+ll"
+    }
+  },
+  {
+    "id": 23,
+    "title": "Implement Min Stack",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/implement-min-stack/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=implement+min+stack"
+    }
+  },
+  {
+    "id": 24,
+    "title": "Jump Game - I",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/jump-game-i/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=jump+game+i"
+    }
+  },
+  {
+    "id": 25,
+    "title": "Longest common subsequence",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-common-subsequence/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=longest+common+subsequence"
+    }
+  },
+  {
+    "id": 26,
+    "title": "Combination Sum",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/combination-sum/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=combination+sum"
+    }
+  },
+  {
+    "id": 27,
+    "title": "Median of 2 sorted arrays",
+    "difficulty": "Hard",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/median-of-2-sorted-arrays/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=median+of+2+sorted+arrays"
+    }
+  },
+  {
+    "id": 29,
+    "title": "Diameter of Binary Tree",
+    "difficulty": "Medium",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=diameter+of+binary+tree"
+    }
+  },
+  {
+    "id": 30,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=longest+palindromic+substring"
+    }
+  },
+  {
+    "id": 35,
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=longest+increasing+subsequence"
+    }
+  },
+  {
+    "id": 37,
+    "title": "Word ladder I",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/word-ladder-i/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=word+ladder+i"
+    }
+  },
+  {
+    "id": 38,
+    "title": "Reverse LL in group of given size K",
+    "difficulty": "Hard",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/reverse-ll-in-group-of-given-size-k/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=reverse+ll+in+group+of+given+size+k"
+    }
+  },
+  {
+    "id": 39,
+    "title": "Largest rectangle in a histogram",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/largest-rectangle-in-a-histogram/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=largest+rectangle+in+a+histogram"
+    }
+  },
+  {
+    "id": 40,
+    "title": "Insert Interval",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/insert-interval/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=insert+interval"
+    }
+  },
+  {
+    "id": 41,
+    "title": "Word Break",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/word-break/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=word+break"
+    }
+  },
+  {
+    "id": 43,
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Hard",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=letter+combinations+of+a+phone+number"
+    }
+  },
+  {
+    "id": 44,
+    "title": "Trie Implementation and Advanced Operations",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/trie-implementation-and-advanced-operations/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=trie+implementation+and+advanced+operations"
+    }
+  },
+  {
+    "id": 45,
+    "title": "Construct a BT from Preorder and Inorder",
+    "difficulty": "Medium",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/construct-a-bt-from-preorder-and-inorder/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=construct+a+bt+from+preorder+and+inorder"
+    }
+  },
+  {
+    "id": 46,
+    "title": "Search in rotated sorted array-I",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/search-in-rotated-sorted-array-i/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=search+in+rotated+sorted+array+i"
+    }
+  },
+  {
+    "id": 48,
+    "title": "Maximum Product Subarray in an Array",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-product-subarray-in-an-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+product+subarray+in+an+array"
+    }
+  },
+  {
+    "id": 50,
+    "title": "Best time to buy and sell stock",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=best+time+to+buy+and+sell+stock"
+    }
+  },
+  {
+    "id": 51,
+    "title": "LRU Cache",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/lru-cache/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=lru+cache"
+    }
+  },
+  {
+    "id": 52,
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/valid-anagram/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=valid+anagram"
+    }
+  },
+  {
+    "id": 56,
+    "title": "Right/Left View of BT",
+    "difficulty": "Medium",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/right-left-view-of-bt/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=right+left+view+of+bt"
+    }
+  },
+  {
+    "id": 57,
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/sliding-window-maximum/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=sliding+window+maximum"
+    }
+  },
+  {
+    "id": 61,
+    "title": "Word Search",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/word-search/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=word+search"
+    }
+  },
+  {
+    "id": 62,
+    "title": "Find minimum in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+minimum+in+rotated+sorted+array"
+    }
+  },
+  {
+    "id": 65,
+    "title": "Merge two Sorted Lists",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=merge+two+sorted+lists"
+    }
+  },
+  {
+    "id": 66,
+    "title": "Edit distance",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/edit-distance/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=edit+distance"
+    }
+  },
+  {
+    "id": 67,
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/minimum-window-substring/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=minimum+window+substring"
+    }
+  },
+  {
+    "id": 69,
+    "title": "Serialize and De-serialize BT",
+    "difficulty": "Hard",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/serialize-and-de-serialize-bt/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=serialize+and+de+serialize+bt"
+    }
+  },
+  {
+    "id": 70,
+    "title": "Rotate matrix by 90 degrees",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/rotate-matrix-by-90-degrees/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=rotate+matrix+by+90+degrees"
+    }
+  },
+  {
+    "id": 75,
+    "title": "Check if a tree is a BST or not",
+    "difficulty": "Medium",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/check-if-a-tree-is-a-bst-or-not/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=check+if+a+tree+is+a+bst+or+not"
+    }
+  },
+  {
+    "id": 76,
+    "title": "N Queen",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/n-queen/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=n+queen"
+    }
+  },
+  {
+    "id": 77,
+    "title": "Search in a 2D Matrix",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/search-in-a-2d-matrix/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=search+in+a+2d+matrix"
+    }
+  },
+  {
+    "id": 81,
+    "title": "Remove Nth node from the back of the LL",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/remove-nth-node-from-the-back-of-the-ll/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=remove+nth+node+from+the+back+of+the+ll"
+    }
+  },
+  {
+    "id": 83,
+    "title": "Majority Element-I",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/majority-element-i/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=majority+element+i"
+    }
+  },
+  {
+    "id": 85,
+    "title": "Asteroid Collision",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/asteroid-collision/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=asteroid+collision"
+    }
+  },
+  {
+    "id": 88,
+    "title": "LCA in BT",
+    "difficulty": "Hard",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/lca-in-bt/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=lca+in+bt"
+    }
+  },
+  {
+    "id": 89,
+    "title": "Non-overlapping Intervals",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=non+overlapping+intervals"
+    }
+  },
+  {
+    "id": 91,
+    "title": "Koko eating bananas",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/koko-eating-bananas/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=koko+eating+bananas"
+    }
+  },
+  {
+    "id": 92,
+    "title": "Sudoku Solver",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/sudoku-solver/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=sudoku+solver"
+    }
+  },
+  {
+    "id": 93,
+    "title": "Add two numbers in Linked List",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/add-two-numbers-in-linked-list/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=add+two+numbers+in+linked+list"
+    }
+  },
+  {
+    "id": 94,
+    "title": "Next Permutation",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/next-permutation/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=next+permutation"
+    }
+  },
+  {
+    "id": 96,
+    "title": "Maximum Width of BT",
+    "difficulty": "Hard",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-width-of-bt/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+width+of+bt"
+    }
+  },
+  {
+    "id": 97,
+    "title": "Longest Consecutive Sequence in an Array",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-consecutive-sequence-in-an-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=longest+consecutive+sequence+in+an+array"
+    }
+  },
+  {
+    "id": 99,
+    "title": "House robber",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/house-robber/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=house+robber"
+    }
+  },
+  {
+    "id": 102,
+    "title": "Next Greater Element",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/next-greater-element/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=next+greater+element"
+    }
+  },
+  {
+    "id": 106,
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "Hard",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=longest+repeating+character+replacement"
+    }
+  },
+  {
+    "id": 107,
+    "title": "Print the matrix in spiral manner",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/print-the-matrix-in-spiral-manner/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=print+the+matrix+in+spiral+manner"
+    }
+  },
+  {
+    "id": 111,
+    "title": "Combination Sum II",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/combination-sum-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=combination+sum+ii"
+    }
+  },
+  {
+    "id": 112,
+    "title": "Search in rotated sorted array-II",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=search+in+rotated+sorted+array+ii"
+    }
+  },
+  {
+    "id": 113,
+    "title": "Bottom view of BT",
+    "difficulty": "Medium",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/bottom-view-of-bt/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=bottom+view+of+bt"
+    }
+  },
+  {
+    "id": 114,
+    "title": "Maximum sum of non adjacent elements",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-sum-of-non-adjacent-elements/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+sum+of+non+adjacent+elements"
+    }
+  },
+  {
+    "id": 115,
+    "title": "Maximum Xor with an element from an array",
+    "difficulty": "Hard",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-xor-with-an-element-from-an-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+xor+with+an+element+from+an+array"
+    }
+  },
+  {
+    "id": 116,
+    "title": "Find missing number",
+    "difficulty": "Easy",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-missing-number/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+missing+number"
+    }
+  },
+  {
+    "id": 119,
+    "title": "Majority Element-II",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/majority-element-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=majority+element+ii"
+    }
+  },
+  {
+    "id": 121,
+    "title": "Kth largest element in a stream of running integers",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/kth-largest-element-in-a-stream-of-running-integers/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=kth+largest+element+in+a+stream+of+running+integers"
+    }
+  },
+  {
+    "id": 123,
+    "title": "Minimum time taken to burn the BT from a given Node",
+    "difficulty": "Hard",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/minimum-time-taken-to-burn-the-bt-from-a-given-node/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=minimum+time+taken+to+burn+the+bt+from+a+given+node"
+    }
+  },
+  {
+    "id": 124,
+    "title": "Sort LL",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/sort-ll/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=sort+ll"
+    }
+  },
+  {
+    "id": 126,
+    "title": "Encode and Decode Strings",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/encode-and-decode-strings/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=encode+and+decode+strings"
+    }
+  },
+  {
+    "id": 129,
+    "title": "Find peak element",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-peak-element/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+peak+element"
+    }
+  },
+  {
+    "id": 131,
+    "title": "Count Inversions",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/count-inversions/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=count+inversions"
+    }
+  },
+  {
+    "id": 132,
+    "title": "Find the MST weight",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-the-mst-weight/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+the+mst+weight"
+    }
+  },
+  {
+    "id": 133,
+    "title": "N meetings in one room",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/n-meetings-in-one-room/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=n+meetings+in+one+room"
+    }
+  },
+  {
+    "id": 134,
+    "title": "Clone a LL with random and next pointer",
+    "difficulty": "Hard",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/clone-a-ll-with-random-and-next-pointer/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=clone+a+ll+with+random+and+next+pointer"
+    }
+  },
+  {
+    "id": 136,
+    "title": "Palindrome partitioning",
+    "difficulty": "Hard",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/palindrome-partitioning/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=palindrome+partitioning"
+    }
+  },
+  {
+    "id": 139,
+    "title": "Aggressive Cows",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/aggressive-cows/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=aggressive+cows"
+    }
+  },
+  {
+    "id": 140,
+    "title": "Implement Min Heap",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/implement-min-heap/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=implement+min+heap"
+    }
+  },
+  {
+    "id": 141,
+    "title": "Rabin Karp Algorithm",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/rabin-karp-algorithm/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=rabin+karp+algorithm"
+    }
+  },
+  {
+    "id": 145,
+    "title": "Number of distinct substrings in a string",
+    "difficulty": "Hard",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=number+of+distinct+substrings+in+a+string"
+    }
+  },
+  {
+    "id": 146,
+    "title": "Merge two sorted arrays without extra space",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/merge-two-sorted-arrays-without-extra-space/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=merge+two+sorted+arrays+without+extra+space"
+    }
+  },
+  {
+    "id": 148,
+    "title": "Longest palindromic subsequence",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=longest+palindromic+subsequence"
+    }
+  },
+  {
+    "id": 149,
+    "title": "Rotate a LL",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/rotate-a-ll/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=rotate+a+ll"
+    }
+  },
+  {
+    "id": 150,
+    "title": "Minimum number of platforms required for a railway",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/minimum-number-of-platforms-required-for-a-railway/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=minimum+number+of+platforms+required+for+a+railway"
+    }
+  },
+  {
+    "id": 151,
+    "title": "Best time to buy and sell stock II",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=best+time+to+buy+and+sell+stock+ii"
+    }
+  },
+  {
+    "id": 152,
+    "title": "Reverse Pairs",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/reverse-pairs/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=reverse+pairs"
+    }
+  },
+  {
+    "id": 153,
+    "title": "Generate Parentheses",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/generate-parentheses/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=generate+parentheses"
+    }
+  },
+  {
+    "id": 154,
+    "title": "Book Allocation Problem",
+    "difficulty": "Hard",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/book-allocation-problem/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=book+allocation+problem"
+    }
+  },
+  {
+    "id": 156,
+    "title": "Z function",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/z-function/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=z+function"
+    }
+  },
+  {
+    "id": 157,
+    "title": "Find Middle of Linked List",
+    "difficulty": "Easy",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-middle-of-linked-list/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+middle+of+linked+list"
+    }
+  },
+  {
+    "id": 159,
+    "title": "Best time to buy and sell stock III",
+    "difficulty": "Hard",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=best+time+to+buy+and+sell+stock+iii"
+    }
+  },
+  {
+    "id": 160,
+    "title": "Job sequencing Problem",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/job-sequencing-problem/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=job+sequencing+problem"
+    }
+  },
+  {
+    "id": 162,
+    "title": "Best time to buy and sell stock IV",
+    "difficulty": "Hard",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=best+time+to+buy+and+sell+stock+iv"
+    }
+  },
+  {
+    "id": 163,
+    "title": "Count subarrays with given xor K",
+    "difficulty": "Hard",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/count-subarrays-with-given-xor-k/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=count+subarrays+with+given+xor+k"
+    }
+  },
+  {
+    "id": 167,
+    "title": "Find the intersection point of Y LL",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-the-intersection-point-of-y-ll/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+the+intersection+point+of+y+ll"
+    }
+  },
+  {
+    "id": 169,
+    "title": "4 Sum",
+    "difficulty": "Hard",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/4-sum/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=4+sum"
+    }
+  },
+  {
+    "id": 170,
+    "title": "Minimum insertions to make string palindrome",
+    "difficulty": "Hard",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/minimum-insertions-to-make-string-palindrome/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=minimum+insertions+to+make+string+palindrome"
+    }
+  },
+  {
+    "id": 172,
+    "title": "KMP Algorithm or LPS array",
+    "difficulty": "Hard",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/kmp-algorithm-or-lps-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=kmp+algorithm+or+lps+array"
+    }
+  },
+  {
+    "id": 174,
+    "title": "Fractional Knapsack",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/fractional-knapsack/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=fractional+knapsack"
+    }
+  },
+  {
+    "id": 175,
+    "title": "Maximum Sum Combination",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-sum-combination/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+sum+combination"
+    }
+  },
+  {
+    "id": 178,
+    "title": "Longest subarray with sum K",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-subarray-with-sum-k/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=longest+subarray+with+sum+k"
+    }
+  },
+  {
+    "id": 179,
+    "title": "Flood fill algorithm",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/flood-fill-algorithm/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=flood+fill+algorithm"
+    }
+  },
+  {
+    "id": 180,
+    "title": "Top View of BT",
+    "difficulty": "Medium",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/top-view-of-bt/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=top+view+of+bt"
+    }
+  },
+  {
+    "id": 185,
+    "title": "Find Nth root of a number",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-nth-root-of-a-number/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+nth+root+of+a+number"
+    }
+  },
+  {
+    "id": 187,
+    "title": "Minimum coins",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/minimum-coins/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=minimum+coins"
+    }
+  },
+  {
+    "id": 190,
+    "title": "Detect a cycle in an undirected graph",
+    "difficulty": "Medium",
+    "topic": [
+      "Graph"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/detect-a-cycle-in-an-undirected-graph/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=detect+a+cycle+in+an+undirected+graph"
+    }
+  },
+  {
+    "id": 191,
+    "title": "Longest Word with All Prefixes",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-word-with-all-prefixes/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=longest+word+with+all+prefixes"
+    }
+  },
+  {
+    "id": 193,
+    "title": "Vertical Order Traversal",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/vertical-order-traversal/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=vertical+order+traversal"
+    }
+  },
+  {
+    "id": 195,
+    "title": "Print root to leaf path in BT",
+    "difficulty": "Medium",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/print-root-to-leaf-path-in-bt/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=print+root+to+leaf+path+in+bt"
+    }
+  },
+  {
+    "id": 196,
+    "title": "Remove duplicates from sorted array",
+    "difficulty": "Easy",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=remove+duplicates+from+sorted+array"
+    }
+  },
+  {
+    "id": 198,
+    "title": "Check if LL is palindrome or not",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/check-if-ll-is-palindrome-or-not/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=check+if+ll+is+palindrome+or+not"
+    }
+  },
+  {
+    "id": 200,
+    "title": "Permutation Sequence",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/permutation-sequence/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=permutation+sequence"
+    }
+  },
+  {
+    "id": 202,
+    "title": "Matrix Median",
+    "difficulty": "Hard",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/matrix-median/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=matrix+median"
+    }
+  },
+  {
+    "id": 203,
+    "title": "Bipartite graph",
+    "difficulty": "Medium",
+    "topic": [
+      "Graph"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/bipartite-graph/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=bipartite+graph"
+    }
+  },
+  {
+    "id": 207,
+    "title": "Maximum XOR of two numbers in an array",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+xor+of+two+numbers+in+an+array"
+    }
+  },
+  {
+    "id": 210,
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=best+time+to+buy+and+sell+stock+with+cooldown"
+    }
+  },
+  {
+    "id": 216,
+    "title": "Boundary Traversal",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/boundary-traversal/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=boundary+traversal"
+    }
+  },
+  {
+    "id": 217,
+    "title": "Stock span problem",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/stock-span-problem/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=stock+span+problem"
+    }
+  },
+  {
+    "id": 220,
+    "title": "Find the starting point in LL",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-the-starting-point-in-ll/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+the+starting+point+in+ll"
+    }
+  },
+  {
+    "id": 224,
+    "title": "Single element in sorted array",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/single-element-in-sorted-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=single+element+in+sorted+array"
+    }
+  },
+  {
+    "id": 225,
+    "title": "Single Number - II",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/single-number-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=single+number+ii"
+    }
+  },
+  {
+    "id": 227,
+    "title": "Distinct subsequences",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/distinct-subsequences/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=distinct+subsequences"
+    }
+  },
+  {
+    "id": 232,
+    "title": "Surrounded Regions",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/surrounded-regions/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=surrounded+regions"
+    }
+  },
+  {
+    "id": 233,
+    "title": "Set difference of two arrays",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/set-difference-of-two-arrays/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=set+difference+of+two+arrays"
+    }
+  },
+  {
+    "id": 236,
+    "title": "Compare version numbers",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/compare-version-numbers/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=compare+version+numbers"
+    }
+  },
+  {
+    "id": 237,
+    "title": "Left Rotate Array by K Places",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/left-rotate-array-by-k-places/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=left+rotate+array+by+k+places"
+    }
+  },
+  {
+    "id": 241,
+    "title": "Kth element of 2 sorted arrays",
+    "difficulty": "Hard",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/kth-element-of-2-sorted-arrays/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=kth+element+of+2+sorted+arrays"
+    }
+  },
+  {
+    "id": 243,
+    "title": "Valid Paranthesis Checker",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/valid-paranthesis-checker/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=valid+paranthesis+checker"
+    }
+  },
+  {
+    "id": 244,
+    "title": "Celebrity Problem",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/celebrity-problem/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=celebrity+problem"
+    }
+  },
+  {
+    "id": 245,
+    "title": "LFU Cache",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/lfu-cache/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=lfu+cache"
+    }
+  },
+  {
+    "id": 247,
+    "title": "Populating Next Right Pointers in Each Node",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=populating+next+right+pointers+in+each+node"
+    }
+  },
+  {
+    "id": 248,
+    "title": "Move Zeros to End",
+    "difficulty": "Easy",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/move-zeros-to-end/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=move+zeros+to+end"
+    }
+  },
+  {
+    "id": 257,
+    "title": "Unique paths II",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/unique-paths-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=unique+paths+ii"
+    }
+  },
+  {
+    "id": 258,
+    "title": "Candy",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/candy/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=candy"
+    }
+  },
+  {
+    "id": 260,
+    "title": "Delete the middle node in LL",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/delete-the-middle-node-in-ll/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=delete+the+middle+node+in+ll"
+    }
+  },
+  {
+    "id": 261,
+    "title": "Max Consecutive Ones III",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=max+consecutive+ones+iii"
+    }
+  },
+  {
+    "id": 264,
+    "title": "Best time to buy and sell stock with transaction fees",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fees/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=best+time+to+buy+and+sell+stock+with+transaction+fees"
+    }
+  },
+  {
+    "id": 265,
+    "title": "Count subarrays with given sum",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/count-subarrays-with-given-sum/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=count+subarrays+with+given+sum"
+    }
+  },
+  {
+    "id": 278,
+    "title": "Check if String is Palindrome or Not",
+    "difficulty": "Easy",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/check-if-string-is-palindrome-or-not/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=check+if+string+is+palindrome+or+not"
+    }
+  },
+  {
+    "id": 281,
+    "title": "Remove K Digits",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/remove-k-digits/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=remove+k+digits"
+    }
+  },
+  {
+    "id": 283,
+    "title": "Finding Equilibrium Index in an Array",
+    "difficulty": "Easy",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/finding-equilibrium-index-in-an-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=finding+equilibrium+index+in+an+array"
+    }
+  },
+  {
+    "id": 288,
+    "title": "Print all nodes at a distance of K in BT",
+    "difficulty": "Hard",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/print-all-nodes-at-a-distance-of-k-in-bt/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=print+all+nodes+at+a+distance+of+k+in+bt"
+    }
+  },
+  {
+    "id": 293,
+    "title": "Wildcard matching",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/wildcard-matching/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=wildcard+matching"
+    }
+  },
+  {
+    "id": 294,
+    "title": "Reverse a String I",
+    "difficulty": "Easy",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/reverse-a-string-i/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=reverse+a+string+i"
+    }
+  },
+  {
+    "id": 295,
+    "title": "Word ladder II",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/word-ladder-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=word+ladder+ii"
+    }
+  },
+  {
+    "id": 299,
+    "title": "Fibonacci Number",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/fibonacci-number/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=fibonacci+number"
+    }
+  },
+  {
+    "id": 300,
+    "title": "Next Greater Element - 2",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/next-greater-element-2/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=next+greater+element+2"
+    }
+  },
+  {
+    "id": 305,
+    "title": "Maximum Points You Can Obtain from Cards",
+    "difficulty": "Medium",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+points+you+can+obtain+from+cards"
+    }
+  },
+  {
+    "id": 310,
+    "title": "Candy Crush",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/candy-crush/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=candy+crush"
+    }
+  },
+  {
+    "id": 312,
+    "title": "Maximum Rectangles",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-rectangles/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+rectangles"
+    }
+  },
+  {
+    "id": 313,
+    "title": "Longest Substring With At Most K Distinct Characters",
+    "difficulty": "Hard",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=longest+substring+with+at+most+k+distinct+characters"
+    }
+  },
+  {
+    "id": 317,
+    "title": "Distance of nearest cell having one",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/distance-of-nearest-cell-having-one/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=distance+of+nearest+cell+having+one"
+    }
+  },
+  {
+    "id": 319,
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=partition+to+k+equal+sum+subsets"
+    }
+  },
+  {
+    "id": 320,
+    "title": "Dot Product of Two Sparse Vectors",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=dot+product+of+two+sparse+vectors"
+    }
+  },
+  {
+    "id": 321,
+    "title": "Frog Jump",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/frog-jump/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=frog+jump"
+    }
+  },
+  {
+    "id": 324,
+    "title": "Rotate String",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/rotate-string/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=rotate+string"
+    }
+  },
+  {
+    "id": 325,
+    "title": "Search in 2D matrix - II",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/search-in-2d-matrix-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=search+in+2d+matrix+ii"
+    }
+  },
+  {
+    "id": 331,
+    "title": "Sum of Subarray Minimums",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=sum+of+subarray+minimums"
+    }
+  },
+  {
+    "id": 332,
+    "title": "Binary Tree Vertical Order Traversal",
+    "difficulty": "Medium",
+    "topic": [
+      "Tree"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/binary-tree-vertical-order-traversal/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=binary+tree+vertical+order+traversal"
+    }
+  },
+  {
+    "id": 335,
+    "title": "Convert a Number to Hexadecimal",
+    "difficulty": "Easy",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=convert+a+number+to+hexadecimal"
+    }
+  },
+  {
+    "id": 336,
+    "title": "Shortest Palindrome",
+    "difficulty": "Hard",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/shortest-palindrome/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=shortest+palindrome"
+    }
+  },
+  {
+    "id": 341,
+    "title": "Largest Odd Number in a String",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/largest-odd-number-in-a-string/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=largest+odd+number+in+a+string"
+    }
+  },
+  {
+    "id": 342,
+    "title": "Count number of Nice subarrays",
+    "difficulty": "Hard",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=count+number+of+nice+subarrays"
+    }
+  },
+  {
+    "id": 345,
+    "title": "One Edit Distance",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/one-edit-distance/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=one+edit+distance"
+    }
+  },
+  {
+    "id": 346,
+    "title": "Single Number - III",
+    "difficulty": "Hard",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/single-number-iii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=single+number+iii"
+    }
+  },
+  {
+    "id": 347,
+    "title": "Number of distinct islands",
+    "difficulty": "Medium",
+    "topic": [
+      "Graph"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/number-of-distinct-islands/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=number+of+distinct+islands"
+    }
+  },
+  {
+    "id": 357,
+    "title": "Reverse a String II",
+    "difficulty": "Easy",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/reverse-a-string-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=reverse+a+string+ii"
+    }
+  },
+  {
+    "id": 359,
+    "title": "Sum of Subarray Ranges",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/sum-of-subarray-ranges/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=sum+of+subarray+ranges"
+    }
+  },
+  {
+    "id": 360,
+    "title": "3Sum Smaller",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/3sum-smaller/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=3sum+smaller"
+    }
+  },
+  {
+    "id": 362,
+    "title": "Number of Longest Increasing Subsequences",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/number-of-longest-increasing-subsequences/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=number+of+longest+increasing+subsequences"
+    }
+  },
+  {
+    "id": 366,
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/count-the-number-of-good-subsequences/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=count+the+number+of+good+subsequences"
+    }
+  },
+  {
+    "id": 369,
+    "title": "Largest Divisible Subset",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/largest-divisible-subset/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=largest+divisible+subset"
+    }
+  },
+  {
+    "id": 371,
+    "title": "Brace Expansion",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/brace-expansion/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=brace+expansion"
+    }
+  },
+  {
+    "id": 375,
+    "title": "Rearrange array elements by sign",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=rearrange+array+elements+by+sign"
+    }
+  },
+  {
+    "id": 382,
+    "title": "Find Peak Element - II",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-peak-element-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+peak+element+ii"
+    }
+  },
+  {
+    "id": 386,
+    "title": "Merge Operations to Turn Array Into a Palindrome",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=merge+operations+to+turn+array+into+a+palindrome"
+    }
+  },
+  {
+    "id": 387,
+    "title": "Maximum Profit From Trading Stocks",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-profit-from-trading-stocks/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+profit+from+trading+stocks"
+    }
+  },
+  {
+    "id": 388,
+    "title": "Number of Substrings Containing All Three Characters",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=number+of+substrings+containing+all+three+characters"
+    }
+  },
+  {
+    "id": 390,
+    "title": "Word Pattern II",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/word-pattern-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=word+pattern+ii"
+    }
+  },
+  {
+    "id": 392,
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+nesting+depth+of+the+parentheses"
+    }
+  },
+  {
+    "id": 393,
+    "title": "Binary Subarrays With Sum",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=binary+subarrays+with+sum"
+    }
+  },
+  {
+    "id": 398,
+    "title": "Flatten 2D Vector",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/flatten-2d-vector/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=flatten+2d+vector"
+    }
+  },
+  {
+    "id": 400,
+    "title": "Shortest common supersequence",
+    "difficulty": "Hard",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/shortest-common-supersequence/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=shortest+common+supersequence"
+    }
+  },
+  {
+    "id": 407,
+    "title": "Sort Transformed Array",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/sort-transformed-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=sort+transformed+array"
+    }
+  },
+  {
+    "id": 408,
+    "title": "Buildings With an Ocean View",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/buildings-with-an-ocean-view/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=buildings+with+an+ocean+view"
+    }
+  },
+  {
+    "id": 416,
+    "title": "Minimum insertions or deletions to convert string A to B",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/minimum-insertions-or-deletions-to-convert-string-a-to-b/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=minimum+insertions+or+deletions+to+convert+string+a+to+b"
+    }
+  },
+  {
+    "id": 420,
+    "title": "Remove Outermost Parentheses",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=remove+outermost+parentheses"
+    }
+  },
+  {
+    "id": 439,
+    "title": "Read N Characters Given Read4",
+    "difficulty": "Easy",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/read-n-characters-given-read4/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=read+n+characters+given+read4"
+    }
+  },
+  {
+    "id": 440,
+    "title": "4 Keys Keyboard",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/4-keys-keyboard/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=4+keys+keyboard"
+    }
+  },
+  {
+    "id": 443,
+    "title": "Longest Repeating Substring",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-repeating-substring/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=longest+repeating+substring"
+    }
+  },
+  {
+    "id": 444,
+    "title": "Factor Combinations",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/factor-combinations/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=factor+combinations"
+    }
+  },
+  {
+    "id": 451,
+    "title": "Intersection of Three Sorted Arrays",
+    "difficulty": "Easy",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/intersection-of-three-sorted-arrays/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=intersection+of+three+sorted+arrays"
+    }
+  },
+  {
+    "id": 456,
+    "title": "Bomb Enemy",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/bomb-enemy/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=bomb+enemy"
+    }
+  },
+  {
+    "id": 459,
+    "title": "Reverse Words in a String II",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/reverse-words-in-a-string-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=reverse+words+in+a+string+ii"
+    }
+  },
+  {
+    "id": 460,
+    "title": "Binary Searchable Numbers in an Unsorted Array",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=binary+searchable+numbers+in+an+unsorted+array"
+    }
+  },
+  {
+    "id": 463,
+    "title": "Product of Two Run-Length Encoded Arrays",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=product+of+two+run+length+encoded+arrays"
+    }
+  },
+  {
+    "id": 469,
+    "title": "Shortest Word Distance II",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/shortest-word-distance-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=shortest+word+distance+ii"
+    }
+  },
+  {
+    "id": 477,
+    "title": "Shortest Way to Form String",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/shortest-way-to-form-string/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=shortest+way+to+form+string"
+    }
+  },
+  {
+    "id": 478,
+    "title": "Find the Derangement of An Array",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-the-derangement-of-an-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+the+derangement+of+an+array"
+    }
+  },
+  {
+    "id": 482,
+    "title": "Find Permutation",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-permutation/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+permutation"
+    }
+  },
+  {
+    "id": 494,
+    "title": "Bitwise OR of Adjacent Elements",
+    "difficulty": "Easy",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/bitwise-or-of-adjacent-elements/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=bitwise+or+of+adjacent+elements"
+    }
+  },
+  {
+    "id": 495,
+    "title": "Armstrong Number",
+    "difficulty": "Easy",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/armstrong-number/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=armstrong+number"
+    }
+  },
+  {
+    "id": 501,
+    "title": "Strobogrammatic Number",
+    "difficulty": "Easy",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/strobogrammatic-number/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=strobogrammatic+number"
+    }
+  },
+  {
+    "id": 506,
+    "title": "Finding the Number of Visible Mountains",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/finding-the-number-of-visible-mountains/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=finding+the+number+of+visible+mountains"
+    }
+  },
+  {
+    "id": 508,
+    "title": "Array Transformation",
+    "difficulty": "Easy",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/array-transformation/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=array+transformation"
+    }
+  },
+  {
+    "id": 512,
+    "title": "Leaders in an Array",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/leaders-in-an-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=leaders+in+an+array"
+    }
+  },
+  {
+    "id": 517,
+    "title": "Count Pairs of Equal Substrings with Minimum Difference",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=count+pairs+of+equal+substrings+with+minimum+difference"
+    }
+  },
+  {
+    "id": 550,
+    "title": "Design Compressed String Iterator",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/design-compressed-string-iterator/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=design+compressed+string+iterator"
+    }
+  },
+  {
+    "id": 551,
+    "title": "Minimum Cost to Separate Sentence Into Rows",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=minimum+cost+to+separate+sentence+into+rows"
+    }
+  },
+  {
+    "id": 553,
+    "title": "Maximum Array Hopping Score I",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-array-hopping-score-i/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+array+hopping+score+i"
+    }
+  },
+  {
+    "id": 554,
+    "title": "Equalize Strings by Adding or Removing Characters at Ends",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=equalize+strings+by+adding+or+removing+characters+at+ends"
+    }
+  },
+  {
+    "id": 561,
+    "title": "Maximum Array Hopping Score II",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-array-hopping-score-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+array+hopping+score+ii"
+    }
+  },
+  {
+    "id": 583,
+    "title": "Next Closest Time",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/next-closest-time/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=next+closest+time"
+    }
+  },
+  {
+    "id": 589,
+    "title": "Number of Self-Divisible Permutations",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/number-of-self-divisible-permutations/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=number+of+self+divisible+permutations"
+    }
+  },
+  {
+    "id": 592,
+    "title": "Count Strictly Increasing Subarrays",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/count-strictly-increasing-subarrays/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=count+strictly+increasing+subarrays"
+    }
+  },
+  {
+    "id": 601,
+    "title": "Reverse a Doubly Linked List",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/reverse-a-doubly-linked-list/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=reverse+a+doubly+linked+list"
+    }
+  },
+  {
+    "id": 605,
+    "title": "Count the Number of K-free subsets",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/count-the-number-of-k-free-subsets/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=count+the+number+of+k+free+subsets"
+    }
+  },
+  {
+    "id": 615,
+    "title": "Two Sum Less Than K",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/two-sum-less-than-k/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=two+sum+less+than+k"
+    }
+  },
+  {
+    "id": 640,
+    "title": "Faulty Sensor",
+    "difficulty": "Easy",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/faulty-sensor/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=faulty+sensor"
+    }
+  },
+  {
+    "id": 643,
+    "title": "Jump Game VIII",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/jump-game-viii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=jump+game+viii"
+    }
+  },
+  {
+    "id": 655,
+    "title": "Number Of Corner Rectangles",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/number-of-corner-rectangles/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=number+of+corner+rectangles"
+    }
+  },
+  {
+    "id": 661,
+    "title": "Next Palindrome Using Same Digits",
+    "difficulty": "Hard",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/next-palindrome-using-same-digits/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=next+palindrome+using+same+digits"
+    }
+  },
+  {
+    "id": 673,
+    "title": "Sentence Screen Fitting",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/sentence-screen-fitting/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=sentence+screen+fitting"
+    }
+  },
+  {
+    "id": 674,
+    "title": "The Knight's Tour",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/the-knight-s-tour/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=the+knight+s+tour"
+    }
+  },
+  {
+    "id": 693,
+    "title": "GCD of Two Numbers",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/gcd-of-two-numbers/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=gcd+of+two+numbers"
+    }
+  },
+  {
+    "id": 694,
+    "title": "Alt and Tab Simulation",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/alt-and-tab-simulation/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=alt+and+tab+simulation"
+    }
+  },
+  {
+    "id": 699,
+    "title": "Array Upper Bound",
+    "difficulty": "Easy",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/array-upper-bound/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=array+upper+bound"
+    }
+  },
+  {
+    "id": 702,
+    "title": "Largest Element",
+    "difficulty": "Easy",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/largest-element/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=largest+element"
+    }
+  },
+  {
+    "id": 706,
+    "title": "Intersection of two sorted arrays",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/intersection-of-two-sorted-arrays/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=intersection+of+two+sorted+arrays"
+    }
+  },
+  {
+    "id": 707,
+    "title": "Find row with maximum 1's",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-row-with-maximum-1-s/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+row+with+maximum+1+s"
+    }
+  },
+  {
+    "id": 711,
+    "title": "Capitalize First and Last Character of Each Word",
+    "difficulty": "Easy",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/capitalize-first-and-last-character-of-each-word/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=capitalize+first+and+last+character+of+each+word"
+    }
+  },
+  {
+    "id": 712,
+    "title": "Number of Jumps",
+    "difficulty": "Hard",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/number-of-jumps/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=number+of+jumps"
+    }
+  },
+  {
+    "id": 713,
+    "title": "Union of two sorted arrays",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/union-of-two-sorted-arrays/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=union+of+two+sorted+arrays"
+    }
+  },
+  {
+    "id": 714,
+    "title": "Frog jump with K distances",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/frog-jump-with-k-distances/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=frog+jump+with+k+distances"
+    }
+  },
+  {
+    "id": 725,
+    "title": "Check if String Is Decomposable Into Value-Equal Substrings",
+    "difficulty": "Easy",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=check+if+string+is+decomposable+into+value+equal+substrings"
+    }
+  },
+  {
+    "id": 726,
+    "title": "Check if a Number is an Abundant Number",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/check-if-a-number-is-an-abundant-number/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=check+if+a+number+is+an+abundant+number"
+    }
+  },
+  {
+    "id": 727,
+    "title": "Convert Doubly Linked List to Array I",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/convert-doubly-linked-list-to-array-i/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=convert+doubly+linked+list+to+array+i"
+    }
+  },
+  {
+    "id": 729,
+    "title": "Lower Bound",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/lower-bound/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=lower+bound"
+    }
+  },
+  {
+    "id": 735,
+    "title": "Find Minimum Time to Finish All Jobs II",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+minimum+time+to+finish+all+jobs+ii"
+    }
+  },
+  {
+    "id": 741,
+    "title": "Reverse an array",
+    "difficulty": "Easy",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/reverse-an-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=reverse+an+array"
+    }
+  },
+  {
+    "id": 750,
+    "title": "Upper Bound",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/upper-bound/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=upper+bound"
+    }
+  },
+  {
+    "id": 751,
+    "title": "Furthest Empty Plot From Buildings",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/furthest-empty-plot-from-buildings/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=furthest+empty+plot+from+buildings"
+    }
+  },
+  {
+    "id": 752,
+    "title": "Longest Palindromic Subsequence II",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-palindromic-subsequence-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=longest+palindromic+subsequence+ii"
+    }
+  },
+  {
+    "id": 756,
+    "title": "Check whether a Given Number is Even or Odd",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/check-whether-a-given-number-is-even-or-odd/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=check+whether+a+given+number+is+even+or+odd"
+    }
+  },
+  {
+    "id": 765,
+    "title": "Find out how many times the array is rotated",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-out-how-many-times-the-array-is-rotated/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+out+how+many+times+the+array+is+rotated"
+    }
+  },
+  {
+    "id": 769,
+    "title": "Length of loop in LL",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/length-of-loop-in-ll/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=length+of+loop+in+ll"
+    }
+  },
+  {
+    "id": 778,
+    "title": "Sort a Linked List of 0's 1's and 2's",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/sort-a-linked-list-of-0-s-1-s-and-2-s/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=sort+a+linked+list+of+0+s+1+s+and+2+s"
+    }
+  },
+  {
+    "id": 783,
+    "title": "Maximum Number of Matching Indices After Right Shifts",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+number+of+matching+indices+after+right+shifts"
+    }
+  },
+  {
+    "id": 784,
+    "title": "The Number of Ways to Make the Sum",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/the-number-of-ways-to-make-the-sum/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=the+number+of+ways+to+make+the+sum"
+    }
+  },
+  {
+    "id": 787,
+    "title": "Minimum Travel Cost",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/minimum-travel-cost/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=minimum+travel+cost"
+    }
+  },
+  {
+    "id": 788,
+    "title": "Palindrome Permutation II",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/palindrome-permutation-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=palindrome+permutation+ii"
+    }
+  },
+  {
+    "id": 810,
+    "title": "Disjoint Set",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/disjoint-set/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=disjoint+set"
+    }
+  },
+  {
+    "id": 817,
+    "title": "Construct String with Minimum Cost (Easy)",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/construct-string-with-minimum-cost-easy-/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=construct+string+with+minimum+cost+easy+"
+    }
+  },
+  {
+    "id": 821,
+    "title": "Reverse an array 2",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/reverse-an-array-2/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=reverse+an+array+2"
+    }
+  },
+  {
+    "id": 830,
+    "title": "Longest common substring",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-common-substring/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=longest+common+substring"
+    }
+  },
+  {
+    "id": 832,
+    "title": "Left Rotate Array by One",
+    "difficulty": "Easy",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/left-rotate-array-by-one/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=left+rotate+array+by+one"
+    }
+  },
+  {
+    "id": 833,
+    "title": "Calculate Frequency of Characters in a String",
+    "difficulty": "Easy",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/calculate-frequency-of-characters-in-a-string/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=calculate+frequency+of+characters+in+a+string"
+    }
+  },
+  {
+    "id": 836,
+    "title": "Print all primes till N",
+    "difficulty": "Medium",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/print-all-primes-till-n/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=print+all+primes+till+n"
+    }
+  },
+  {
+    "id": 837,
+    "title": "Change Case of Each Character in a String",
+    "difficulty": "Easy",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/change-case-of-each-character-in-a-string/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=change+case+of+each+character+in+a+string"
+    }
+  },
+  {
+    "id": 838,
+    "title": "Linear Search",
+    "difficulty": "Easy",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/linear-search/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=linear+search"
+    }
+  },
+  {
+    "id": 846,
+    "title": "Change Every Letter with the Next Lexicographic",
+    "difficulty": "Easy",
+    "topic": [
+      "Graph"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/change-every-letter-with-the-next-lexicographic/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=change+every+letter+with+the+next+lexicographic"
+    }
+  },
+  {
+    "id": 849,
+    "title": "Convert Doubly Linked List to Array II",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/convert-doubly-linked-list-to-array-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=convert+doubly+linked+list+to+array+ii"
+    }
+  },
+  {
+    "id": 851,
+    "title": "Check if Array is Subset of Another",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/check-if-array-is-subset-of-another/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=check+if+array+is+subset+of+another"
+    }
+  },
+  {
+    "id": 854,
+    "title": "Count Nodes in Linked List",
+    "difficulty": "Easy",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/count-nodes-in-linked-list/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=count+nodes+in+linked+list"
+    }
+  },
+  {
+    "id": 855,
+    "title": "Count Prefix Appearances",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/count-prefix-appearances/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=count+prefix+appearances"
+    }
+  },
+  {
+    "id": 860,
+    "title": "Buy Flowers",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/buy-flowers/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=buy+flowers"
+    }
+  },
+  {
+    "id": 863,
+    "title": "Counting Frequencies of Array Elements",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/counting-frequencies-of-array-elements/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=counting+frequencies+of+array+elements"
+    }
+  },
+  {
+    "id": 864,
+    "title": "Number of Greater Elements to the Right",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/number-of-greater-elements-to-the-right/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=number+of+greater+elements+to+the+right"
+    }
+  },
+  {
+    "id": 865,
+    "title": "Concatenate One String to Another",
+    "difficulty": "Easy",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/concatenate-one-string-to-another/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=concatenate+one+string+to+another"
+    }
+  },
+  {
+    "id": 870,
+    "title": "Calculate the Power of a Number using Binary Exponentiation",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/calculate-the-power-of-a-number-using-binary-exponentiation/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=calculate+the+power+of+a+number+using+binary+exponentiation"
+    }
+  },
+  {
+    "id": 884,
+    "title": "Furthest Reachable Mountain",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/furthest-reachable-mountain/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=furthest+reachable+mountain"
+    }
+  },
+  {
+    "id": 889,
+    "title": "Check if a Large Number is Divisible by 9",
+    "difficulty": "Easy",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/check-if-a-large-number-is-divisible-by-9/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=check+if+a+large+number+is+divisible+by+9"
+    }
+  },
+  {
+    "id": 895,
+    "title": "Palindrome Check",
+    "difficulty": "Medium",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/palindrome-check/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=palindrome+check"
+    }
+  },
+  {
+    "id": 900,
+    "title": "Automorphic Number",
+    "difficulty": "Easy",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/automorphic-number/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=automorphic+number"
+    }
+  },
+  {
+    "id": 904,
+    "title": "Check if a Number is a Harshad (Niven) Number",
+    "difficulty": "Easy",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/check-if-a-number-is-a-harshad-niven-number/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=check+if+a+number+is+a+harshad+niven+number"
+    }
+  },
+  {
+    "id": 908,
+    "title": "Factorial of a given number",
+    "difficulty": "Easy",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/factorial-of-a-given-number/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=factorial+of+a+given+number"
+    }
+  },
+  {
+    "id": 911,
+    "title": "Check if a Number is a Strong Number",
+    "difficulty": "Easy",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/check-if-a-number-is-a-strong-number/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=check+if+a+number+is+a+strong+number"
+    }
+  },
+  {
+    "id": 915,
+    "title": "Check Whether a Floating-Point Number is Even or Odd",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/check-whether-a-floating-point-number-is-even-or-odd/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=check+whether+a+floating+point+number+is+even+or+odd"
+    }
+  },
+  {
+    "id": 921,
+    "title": "Factorial of a Given Number",
+    "difficulty": "Easy",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/factorial-of-a-given-number/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=factorial+of+a+given+number"
+    }
+  },
+  {
+    "id": 932,
+    "title": "Sum of First N Numbers",
+    "difficulty": "Easy",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Low",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/sum-of-first-n-numbers/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=sum+of+first+n+numbers"
+    }
+  },
+  {
+    "id": 945,
+    "title": "Pascal's Triangle III",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/pascal-s-triangle-iii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=pascal+s+triangle+iii"
+    }
+  },
+  {
+    "id": 956,
+    "title": "Find the Lexicographically Largest String From the Box II",
+    "difficulty": "Hard",
+    "topic": [
+      "Linked List"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=find+the+lexicographically+largest+string+from+the+box+ii"
+    }
+  },
+  {
+    "id": 960,
+    "title": "Build heap from a given Array",
+    "difficulty": "Medium",
+    "topic": [
+      "Array"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/build-heap-from-a-given-array/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=build+heap+from+a+given+array"
+    }
+  },
+  {
+    "id": 968,
+    "title": "Maximal Range That Each Element is Maximal in It",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximal-range-that-each-element-is-maximal-in-it/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximal+range+that+each+element+is+maximal+in+it"
+    }
+  },
+  {
+    "id": 976,
+    "title": "Maximum Number of People That Can Be Caught in Tag",
+    "difficulty": "Medium",
+    "topic": [
+      "Math"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/maximum-number-of-people-that-can-be-caught-in-tag/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=maximum+number+of+people+that+can+be+caught+in+tag"
+    }
+  },
+  {
+    "id": 1012,
+    "title": "Remove Brackets from an Algebraic Expression",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/remove-brackets-from-an-algebraic-expression/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=remove+brackets+from+an+algebraic+expression"
+    }
+  },
+  {
+    "id": 1021,
+    "title": "Heapify Algorithm",
+    "difficulty": "Medium",
+    "topic": [
+      "General"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "Medium",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/heapify-algorithm/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=heapify+algorithm"
+    }
+  },
+  {
+    "id": 1063,
+    "title": "Un Palindromic Strings",
+    "difficulty": "Hard",
+    "topic": [
+      "String"
+    ],
+    "round": "Coding Round",
+    "year": 2024,
+    "frequency": "High",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/un-palindromic-strings/",
+      "gfg": "https://practice.geeksforgeeks.org/explore?page=1&search=un+palindromic+strings"
+    }
+  }
+]
