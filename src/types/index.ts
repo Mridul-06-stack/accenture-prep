@@ -19,4 +19,5 @@ export interface Question {
   year: number;
   frequency: "High" | "Medium" | "Low";
   links?: QuestionLinks;
+  hint?: string;
 }

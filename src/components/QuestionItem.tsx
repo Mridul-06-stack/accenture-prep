@@ -99,15 +99,13 @@ export function QuestionItem({
                 {/* Topics / Hints Toggle */}
                 <div className="mt-2 text-xs">
                     {showHint ? (
-                        <div className="flex flex-wrap items-center gap-2">
-                            <span className="font-semibold text-accent flex items-center gap-1">
-                                <Lightbulb className="w-3.5 h-3.5" /> Hints:
+                        <div className="flex items-start gap-2 bg-accent/5 p-2 rounded-md border border-accent/10">
+                            <span className="font-semibold text-accent flex items-center shrink-0 gap-1 pt-0.5">
+                                <Lightbulb className="w-3.5 h-3.5" /> Hint:
                             </span>
-                            {question.topic.map(t => (
-                                <span key={t} className="text-[10px] uppercase font-bold tracking-wider px-1.5 py-0.5 bg-background border border-subtle text-gray-500 rounded">
-                                    {t}
-                                </span>
-                            ))}
+                            <span className="text-gray-600 dark:text-gray-400 italic leading-tight text-xs">
+                                {question.hint || question.topic.join(", ")}
+                            </span>
                         </div>
                     ) : (
                         <button
@@ -161,8 +159,8 @@ export function QuestionItem({
                 <button
                     onClick={() => onToggleBookmark(question.id)}
                     className={`p-2 rounded-full transition-colors ${isBookmarked
-                            ? 'bg-accent/10 text-accent hover:bg-accent/20'
-                            : 'text-gray-400 hover:text-accent hover:bg-surface'
+                        ? 'bg-accent/10 text-accent hover:bg-accent/20'
+                        : 'text-gray-400 hover:text-accent hover:bg-surface'
                         }`}
                     aria-label={isBookmarked ? "Remove bookmark" : "Bookmark question"}
                 >
