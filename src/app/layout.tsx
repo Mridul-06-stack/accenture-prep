@@ -19,7 +19,14 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <body className={`${inter.className} min-h-screen antialiased bg-primary text-primary transition-colors duration-300`}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
-          {children}
+          <div className="flex flex-col min-h-screen">
+            <div className="flex-1">
+              {children}
+            </div>
+            <footer className="py-8 text-center text-sm font-medium text-gray-500/80 dark:text-gray-400/80 border-t border-subtle bg-surface">
+              Created by Mridul Ahluwalia
+            </footer>
+          </div>
         </ThemeProvider>
       </body>
     </html>
